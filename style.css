@@ -1,3 +1,37 @@
-legend{
-    text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@200&display=swap');
+
+body{
+    font-family: 'Anek Telugu', sans-serif;
+    background-color: #042940;
+    color: #DBF227;
+    font-size: 14;
 }
+.login{
+    text-align: center;
+    }
+
+    fieldset{
+        width: 30%;
+        text-align: center;
+        height: 150px;
+        background-color: #005C53;
+
+    }
+
+    h1{
+        color: #9FC131;
+    }
+
+    label{
+        font-size: 50;
+        display: block;
+    }
+
+    #email{
+        background-color: #D6D58E;
+        border-radius: 10px;
+    }
+    #senha{
+        background-color: #D6D58E;
+        border-radius: 10px;
+    }
